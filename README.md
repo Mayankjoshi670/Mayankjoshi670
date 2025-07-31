@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I am Mayank Joshi, <br>2026 grad.<br> Pursuing  bachelor's degree in technology.<br> Currently, I'm learning the MERN stack <br>(MongoDB, Express.js, React, Node.js, Typescript) <br>A DSA enthusiast. 
 
-
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=Mayankjoshi670)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/670mayankjoshi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MAYANK699097120) 
 
